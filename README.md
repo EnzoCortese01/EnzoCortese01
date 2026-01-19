@@ -10,7 +10,8 @@
 
 💻 Mes compétences:
 
-#3776AB
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/53058929-e689-451d-b724-b5c39da06332" />
+
 
 
 <!--
