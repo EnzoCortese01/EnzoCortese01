@@ -1,12 +1,10 @@
 ⚡Bienvenue sur le profil GitHub de Enzo CORTESE
 
-👋 Hi, I'm @EnzoCortese01
+👋 Salut, je suis @EnzoCortese01
 
 👨‍🎓Etudiant en Informatique
 
-
-
-💞 I'm looking to collaborate on 
+🌍 Je suis basé à Limoges
 
 📫 Pour me contacter : enzo.cortese@etu.unilim.fr
 
