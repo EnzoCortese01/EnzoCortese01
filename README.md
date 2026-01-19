@@ -1,5 +1,4 @@
 Bienvenue sur le profil GitHub de Thomas BREIL
-Bienvenue sur le profil GitHub de Thomas BREIL
 
 👋 Hi, I'm @EnzoCortese01
 
